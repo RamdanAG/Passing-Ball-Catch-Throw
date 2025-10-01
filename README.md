@@ -30,15 +30,13 @@ Fitur ini bisa digunakan untuk eksperimen interaktif, game gesture, atau latihan
 
 ## ⚙️ Instalasi
 1. Clone repo ini:
-   ```bash
+   ```
    git clone https://github.com/username/passing-bola.git
    cd passing-bola
-```
-
-```bash
-pip install opencv-python mediapipe numpy
-```
-
-```bash
-python main.py
-```
+   ```
+   ```
+   pip install opencv-python mediapipe numpy
+   ```
+   ```
+   python main.py
+   ```
